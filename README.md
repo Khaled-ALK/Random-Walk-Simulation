@@ -23,12 +23,5 @@ To enhance intuition about the theorem, this repository includes three scripts d
    - Normalizes the results and overlays the theoretical Gaussian distribution.
    - Demonstrates how the random walk's distribution converges to a normal curve, as predicted by the Central Limit Theorem.
 
----
 
-## **Theoretical Background**
 
-### **1. Central Limit Theorem (CLT)**  
-The CLT states that the sum (or average) of a large number of independent and identically distributed (i.i.d.) random variables, when properly normalized, approaches a normal distribution. This holds regardless of the original distribution of the variables.
-
-### **2. Laplace-De Moivre Theorem**  
-This specific case of the CLT demonstrates that the distribution of sums of Bernoulli random variables converges to a normal distribution as the number of trials increases. This is analogous to how the distribution of endpoints in a random walk converges to a Gaussian.
