@@ -1,6 +1,6 @@
 # Random-Walk-Simulation
 
-This repository explores the **Central Limit Theorem (CLT)** through the lens of random walks. Over the fall, I conducted a three-part seminar on the Central Limit Theorem. As part of the second session, I proved the **Laplace-De Moivre Theorem**, which establishes the CLT in the context of Bernoulli random variables. These variables can be interpreted as steps in a random walk.
+This repository explores the **Central Limit Theorem (CLT)** through the lens of random walks. Over the fall, I conducted a three-part seminar on the Central Limit Theorem In university of Tehran. As part of the second session, I proved the **Laplace-De Moivre Theorem**, which establishes the CLT in the context of Bernoulli random variables. These variables can be interpreted as steps in a random walk.
 
 To enhance intuition about the theorem, this repository includes three scripts demonstrating different aspects of random walks and their connection to the CLT.
 
